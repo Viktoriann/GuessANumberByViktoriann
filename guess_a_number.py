@@ -58,6 +58,4 @@ def play_game():
             print("*******************************************")
             print(f"You have {number_of_guesses} guesses left.")
 
-
-
 play_game()
